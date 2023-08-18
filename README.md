@@ -1,2 +1,2 @@
 # fifo
-This repository contains verilog code for  async. FIFO
+This repository contains verilog code for  Async. FIFO
